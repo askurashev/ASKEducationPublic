@@ -1,1 +1,1 @@
-Publica repository for ASKEducation
+Public repository for ASKEducation
