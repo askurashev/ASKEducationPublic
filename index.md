@@ -5,5 +5,3 @@ comments: false
 ---
 
 # Теория
-
-[TOC]
